@@ -14,7 +14,7 @@ Balancer names may be used instead of DNS for serving static content from blockc
 
 ## Technical description
 
-There is used NVS (Name Value System) for writing data to the blockhain.
+There is used NVS (Name Value System) for writing data to the blockchain.
 
 NVS **name** could be `balancer:[name]`, where `[name]` is replaced with its name. For example, `balancer:mfid`.
 
